@@ -1,0 +1,6 @@
+﻿Build started at 9:29 AM...
+1>------ Build started: Project: LIBRARY MANAGEMENT DATA SYSTEM, Configuration: Debug Any CPU ------
+1>Skipping analyzers to speed up the build. You can execute 'Build' or 'Rebuild' command to run analyzers.
+1>LIBRARY MANAGEMENT DATA SYSTEM -> C:\Users\Martin\source\repos\LIBRARY MANAGEMENT DATA SYSTEM\LIBRARY MANAGEMENT DATA SYSTEM\bin\Debug\net8.0-windows\LIBRARY MANAGEMENT DATA SYSTEM.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 9:31 AM and took 01:30.096 minutes ==========
